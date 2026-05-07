@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hola, soy Eduar Gudiño
+  Hi, I'm Eduar Gudiño
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -17,32 +17,33 @@
 
 ---
 
-- 👨‍💻 Actualmente trabajando como **Full Stack Developer** en Locatel, enfocado en automatización de flujos internos.
-- 💬 Pregúntame sobre **.NET (Minimal APIs)**, **React**, **Kotlin (Android)** y **Arquitectura Hexagonal**.
-- 🌱 Estoy aprendiendo **Go (Golang)** y profundizando en la escalabilidad de sistemas.
-- 🚀 Apasionado por resolver problemas de negocio reales mediante código limpio y eficiente.
+- [cite_start]👨‍💻 Currently working as a **Full Stack Developer** at Locatel, focused on automating and digitizing internal HR workflows[cite: 8, 9, 14].
+- [cite_start]💬 Ask me about **.NET (Minimal APIs)**, **React**, **Kotlin (Android)**, and **Hexagonal Architecture**[cite: 4, 5, 15, 17].
+- [cite_start]🛡️ Experienced in automating cybersecurity processes using **Python** and **Wazuh**[cite: 6, 21].
+- 🌱 Currently learning **Go (Golang)** and exploring system scalability.
+- [cite_start]🚀 Passionate about solving real-world business problems through clean code and efficient design patterns[cite: 6, 18].
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Lenguajes
+#### 🔧 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go%20(Learning)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-#### 🗄️ Bases de Datos
+#### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🖥️ Frameworks & Tecnologías
+#### 🖥️ Frameworks & Technologies
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-#### 🔧 Herramientas & Seguridad
+#### 🔧 Tools & Security
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +64,7 @@
 
 ---
 
-### 🔗 &nbsp;Contacto
+### 🔗 &nbsp;Connect with Me
 
 <div align="center">
 <a href="mailto:eduargudino.45@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

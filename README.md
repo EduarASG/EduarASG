@@ -19,7 +19,7 @@
 
 - 👨‍💻 Actualmente trabajando como **Full Stack Developer** en Locatel, enfocado en automatización de flujos internos.
 - 💬 Pregúntame sobre **.NET (Minimal APIs)**, **React**, **Kotlin (Android)** y **Arquitectura Hexagonal**.
-- 🌱 Estoy profundizando en la implementación de **Patrones de Diseño** y escalabilidad de sistemas.
+- 🌱 Estoy aprendiendo **Go (Golang)** y profundizando en la escalabilidad de sistemas.
 - 🚀 Apasionado por resolver problemas de negocio reales mediante código limpio y eficiente.
 
 ## 🛠 &nbsp;Tech Stack
@@ -29,7 +29,12 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/Go%20(Learning)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### 🗄️ Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🖥️ Frameworks & Tecnologías
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -42,21 +47,20 @@
 ![Wazuh](https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 
 ## 📊 Profile Statistics
 
-<div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduarASG&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" />
 </div>
-
-### ⏱ Streak Stats
-
-<div align="center">
+ 
+ ### ⏱ Streak Stats
+ <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=EduarASG&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
   </a>
 </div>
+
 ---
 
 ### 🔗 &nbsp;Contacto

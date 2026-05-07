@@ -46,16 +46,17 @@
 
 ## 📊 Profile Statistics
 
- <div align=center>
-![](https://github-readme-stats.vercel.app/api?username=EduarASG&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduarASG&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" />
 </div>
- 
- ### ⏱ Streak Stats
- <div align=center>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduarASG&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
- </div>
 
+### ⏱ Streak Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=EduarASG&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
+</div>
 ---
 
 ### 🔗 &nbsp;Contacto
